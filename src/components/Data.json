@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 76,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Time stood still, Trump says at site of assassination attempt",
+        "description": "Donald Trump invited tech billionaire Elon Musk to the stage to join him attacking his Democratic opponent.",
+        "url": "https://www.bbc.co.uk/news/articles/c70w909znl6o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c93/live/766afcb0-8375-11ef-ad45-893aa022fcbc.jpg",
+        "publishedAt": "2024-10-06T01:37:18.2940822Z",
+        "content": "With just 31 days to go until Americans vote, polls show Trump and Kamala Harris in a tight race in Pennsylvania - a hotly contested battleground state.\r\nData from the New York Times and Siena, for e… [+1076 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Andrea Margolis",
+        "title": "Musk energizes Trump supporters at Butler rally, 3 months after assassination attempt on former president",
+        "description": "Tesla CEO Elon Musk appeared at former President Trump's rally in Butler, Pennsylvania, on Saturday, nearly three months after Trump was shot at the same venue.",
+        "url": "https://www.foxnews.com/us/musk-energizes-trump-supporters-butler-rally-3-months-after-assassination-attempt-former-president",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/musk-trump-2.jpg",
+        "publishedAt": "2024-10-06T01:10:31Z",
+        "content": "Tesla CEO Elon Musk made a memorable appearance at former President Trump's campaign rally in Butler, Pennsylvania, on Saturday a rare appearance for the tech entrepreneur. \r\nWearing a black \"Make Am… [+3710 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": "ABC News",
+        "title": "Donald Trump returns to site of Pennsylvania assassination attempt for Butler rally, with Elon Musk joining him on stage",
+        "description": "Donald Trump returns to Pennsylvania, where he was nearly assassinated in July, holding a rally with heightened security and guest Elon Musk.",
+        "url": "https://www.abc.net.au/news/2024-10-06/donald-trump-returns-to-assassination-attempt-rally/104438024",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bc92fa1f64854fa9192eb5a9d91d957a?impolicy=wcms_watermark_news&cropH=1774&cropW=3153&xPos=0&yPos=214&width=862&height=485&imformat=generic",
+        "publishedAt": "2024-10-06T01:03:58Z",
+        "content": "Donald Trump has returned to the Pennsylvania fairgrounds where he was nearly assassinated in July, holding a sprawling rally with a massive crowd of supporters in a critical swing state he hopes to … [+2844 chars]"
+      },
+      {
+        "source": {
+          "id": "new-york-magazine",
+          "name": "New York Magazine"
+        },
+        "author": "Chas Danner",
+        "title": "Elon Musk Jumped for Trump at Butler Rally",
+        "description": "Billionaire X owner Elon Musk joined Donald Trump on stage at his big rally in Butler, Pennsylvania — and it was weird.",
+        "url": "https://nymag.com/intelligencer/article/elon-musk-jumped-for-trump-at-butler-rally.html",
+        "urlToImage": "https://pyxis.nymag.com/v1/imgs/6de/69b/29632cdf51e740894bbf635e9d25551dc7-musk-trump-rally.1x.rsocial.w1200.jpg",
+        "publishedAt": "2024-10-06T01:01:16Z",
+        "content": "Elon Musk joined the MAGA circus in person on Saturday night, literally jumping on stage with Donald Trump during the former presidents big rally return to the same Butler, Pennsylvania fairgrounds w… [+2855 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump returns to Butler months after assassination attempt",
+        "description": "Former President Donald Trump held a rally in Butler, Pennsylvania, on Saturday, returning to the same stage that was the site of the July 13 assassination attempt on his life. Joining Trump at the rally was his running mate, Sen. JD Vance of Ohio, and billio…",
+        "url": "https://www.cbsnews.com/video/trump-returns-to-butler-months-after-assassination-attempt/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/06/c7b5ddfb-9336-40bd-9602-995525c6bd5c/thumbnail/1200x630/ff777d542fc40796cf62be13443e6804/chburns.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+        "publishedAt": "2024-10-06T00:48:56+00:00",
+        "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      },
+      {
+        "source": {
+          "id": "bild",
+          "name": "Bild"
+        },
+        "author": "Jennifer Renk",
+        "title": "Hier macht Elon Musk Wahlkampf für Donald Trump: Er hüpft, er post und lässt sich feiern | Politik",
+        "description": "Er kehrt an den Ort zurück, an dem er im Juli fast von einem Attentäter getötet worden wäre: Donald Trump (78) ist am Samstagabend (Ortszeit) bei einer K...",
+        "url": "https://www.bild.de/politik/ausland-und-internationales/hier-macht-elon-musk-wahlkampf-fuer-donald-trump-er-huepft-er-post-und-laesst-sich-feiern-6701b64ddd4668399e3bc0e8",
+        "urlToImage": "https://images.bild.de/6701b64ddd4668399e3bc0e8/7ed2553da07c87ce4aa89694806d01b9,ea8f4a9f?w=1280",
+        "publishedAt": "2024-10-06T00:43:31Z",
+        "content": "Er kehrt an den Ort zurück, an dem er im Juli fast von einem Attentäter getötet worden wäre: Donald Trump (78) ist am Samstagabend (Ortszeit) bei einer Kundgebung in Butler im US-Bundesstaat Pennsylv… [+3785 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Nick Gilbertson",
+        "title": "Elon Musk at Trump Rally: If You Don’t Vote ‘This Will Be the Last Election’",
+        "description": "Elon Musk implored Trump supporters to vote at Saturday's rally in Butler, forecasting \"This will be the last election\" if they do not.",
+        "url": "https://www.breitbart.com/politics/2024/10/05/elon-musk-at-trump-rally-if-you-dont-vote-this-will-be-the-last-election/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Elon-Musk-Comes-on-Stage-in-Butler-640x335.jpeg",
+        "publishedAt": "2024-10-06T00:28:20Z",
+        "content": "Tesla and SpaceX CEO Elon Musk implored Trump supporters to vote at Saturday’s rally in Butler, Pennsylvania, saying, “This will be the last election” if they do not.\r\nAfter Trump invited him on stag… [+1470 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Katherine Hamilton",
+        "title": "Trump Predicts: The Left Will ‘Drop All Sorts of Bombs’ Before Election Day",
+        "description": "Trump predicted Democrats and the far-left will continue to throw up roadblocks and release political firestorms with exactly a month until Election Day..",
+        "url": "https://www.breitbart.com/politics/2024/10/05/trump-predicts-at-butler-rally-the-left-will-drop-all-sorts-of-bombs-before-election-day/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/trump-return-to-butler-smiling-flag-AP-640x335.jpg",
+        "publishedAt": "2024-10-06T00:15:24Z",
+        "content": "Former President Donald Trump returned to Butler, Pennsylvania, for a rally on Saturday evening at the same site where he nearly lost his life in an assassination attempt on July 13.\r\nWhile speaking … [+1604 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Elizabeth Weibel",
+        "title": "Musk on President's Character: 'No Truer Test than Courage Under Fire'",
+        "description": "Elon Musk spoke about former President Donald Trump's character, pointing out that he was \"fist pumping\" after being shot.",
+        "url": "https://www.breitbart.com/politics/2024/10/05/musk-on-presidents-character-no-truer-test-than-courage-under-fire/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Elon-Musk-in-Butler-640x335.jpeg",
+        "publishedAt": "2024-10-06T00:15:08Z",
+        "content": "Tesla and SpaceX CEO Elon Musk spoke about former President Donald Trump’s character, pointing out that after he was shot during his first rally in Butler, Pennsylvania, he was “fist pumping.”\r\nMusk,… [+1414 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Brett Samuels",
+        "title": "5 takeaways from Trump’s return to Butler",
+        "description": "Former President Trump returned to the site of a July assassination attempt on Saturday, rallying with thousands of supporters in Butler, Pa., and honoring a supporter who was killed that day. Trump had said he felt an “obligation” to return to Butler, and he…",
+        "url": "https://thehill.com/homenews/campaign/4918014-trump-rally-assassination-attempt/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/AP24279848770289-1.jpg?w=1280",
+        "publishedAt": "2024-10-06T00:13:57Z",
+        "content": "Skip to content\r\nFormer President Trump returned to the site of a July assassination attempt on Saturday, rallying with thousands of supporters in Butler, Pa., and honoring a supporter who was killed… [+5695 chars]"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Wendell Husebø",
+        "title": "Elon Musk Declares 'I'm Not Just MAGA. I'm Dark MAGA' at Trump's Rally in Butler, PA",
+        "description": "\"I'm not just MAGA. I'm dark MAGA,\" Elon Musk identified himself on Saturday at a Trump campaign rally in Butler, Pennsylvania.",
+        "url": "https://www.breitbart.com/2024-election/2024/10/05/elon-musk-declares-im-not-just-maga-im-dark-maga-at-trumps-rally-in-butler-pa/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/GettyImages-2176078591-crop-640x335.jpg",
+        "publishedAt": "2024-10-06T00:08:59Z",
+        "content": "“I’m not just MAGA. I’m dark MAGA,” Elon Musk identified himself on Saturday at a Donald Trump campaign rally in Butler, Pennsylvania — the former president’s triumphant return to the site where he w… [+2040 chars]"
+      },
+      {
+        "source": {
+          "id": "der-tagesspiegel",
+          "name": "Der Tagesspiegel"
+        },
+        "author": "Der Tagesspiegel",
+        "title": "US-Wahlkampf: Trump schwört Anhänger am Ort des Attentats auf Wahlsieg ein",
+        "description": "Mitte Juli schoss ein Attentäter bei einem Wahlkampfauftritt im Ort Butler auf Trump. Nun kehrt der Ex-Präsident genau dorthin zurück - und erhält prominente Unterstützung.",
+        "url": "https://www.tagesspiegel.de/internationales/us-wahlkampf-trump-schwort-anhanger-am-ort-des-attentats-auf-wahlsieg-ein-12487856.html",
+        "urlToImage": "https://www.tagesspiegel.de/images/12487865/alternates/BASE_16_9_W1400/1728176303000/wahlkampf-in-den-usa-trump-in-pennsylvania.jpeg",
+        "publishedAt": "2024-10-06T00:04:43+00:00",
+        "content": "US-Präsidentschaftskandidat Donald Trump ist knapp drei Monate nach dem Attentat auf ihn an den Ort des Geschehens im Bundesstaat Pennsylvania zurückgekehrt, um Wahlkampf zu machen. Bei einer großen … [+3691 chars]"
+      },
+      {
+        "source": {
+          "id": "die-zeit",
+          "name": "Die Zeit"
+        },
+        "author": "Leonardo Pape, AFP, dpa",
+        "title": "US-Wahlkampf: Donald Trump kehrt für Kundgebung nach Butler zurück",
+        "description": "Bei der Rückkehr an den Ort des Attentats Mitte Juli spricht Trump vom Schützen als \"bösartiges Monster\". Sein Überleben verdanke der Republikaner göttlicher Vorsehung.",
+        "url": "https://www.zeit.de/politik/ausland/2024-10/trump-kehrt-nach-attentatsversuch-nach-butler-zurueck",
+        "urlToImage": "https://img.zeit.de/politik/ausland/2024-10/trump-rueckkehr-butler-nach-attentat-bild/wide__1300x731",
+        "publishedAt": "2024-10-05T23:46:38+00:00",
+        "content": "Knapp drei Monate nach dem Attentat auf Donald Trump ist der republikanische Präsidentschaftskandidat für eine Wahlkampfveranstaltung nach Butler im US-Bundesstaat Pennsylvania zurückgekehrt. Dabei b… [+3106 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Wired",
+        "title": "Elon Musk Spoke at a Trump Rally, Referenced 'Dark MAGA,' and Urged Supporters to Vote",
+        "description": "“Get everyone you know, and everyone you don't know, drag them to register to vote,” said Elon Musk at a rally in Butler, Pennsylvania. “If they don’t, this will be the last election. That’s my prediction.”",
+        "url": "https://www.wired.com/story/elon-musk-donald-trump-butler-register-vote/",
+        "urlToImage": "https://media.wired.com/photos/6701c49929080fff6ec11d8a/191:100/w_1280,c_limit/Politics_musk_GettyImages-2176078700.jpg",
+        "publishedAt": "2024-10-05T23:41:57Z",
+        "content": "In Butler, Pennsylvania, a billboard read In Musk We Trust. A Tesla Cybertruck parked on the side of the road sported a TRUMP 2024 flag.\r\nWith a month left in the presidential campaign, former presid… [+3311 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-ca",
+          "name": "Google News (Canada)"
+        },
+        "author": "The Associated Press",
+        "title": "Elon Musk makes first appearance at Trump rally casting election in dire terms - The Associated Press",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3ctVG03RVNQazV3Zm1aNlNueXpxZWpfSE15Y3o4VTVPdzB1TGJXUEhGNFBMV3NoSXVQQmVuc0ZTcThMY2d3SVRVc2NaTnZITjdxb0szZmx6RGxnWVNxSEQtbXU5eFJDaFhmWTdFV0p5eEVZWllQQXladW9sdVZWTlBzSEdqblBoUjQwWWN2bGJQcWFfY0pkQ3VFY0JZa1ZJVGN1dGtFaw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-10-05T23:39:00+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Wendell Husebø",
+        "title": "Donald Trump Returns to Butler: I Never Stopped Fighting for You",
+        "description": "\"I've never stopped fighting for you, and I never will,\" former President Donald Trump said Saturday upon returning to Butler, Pennsylvania.",
+        "url": "https://www.breitbart.com/politics/2024/10/05/donald-trump-returns-to-butler-ive-never-stopped-fighting-for-you/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Trump-Shot-Gets-Up-640x335.jpeg",
+        "publishedAt": "2024-10-05T23:38:21Z",
+        "content": "“I’veneverstoppedfightingforyou,andIneverwill,” former President Donald Trump said Saturday upon returning to Butler, Pennsylvania. \r\nSeveral months ago, Thomas Crooks attempted to assassinate Trump … [+2116 chars]"
+      },
+      {
+        "source": {
+          "id": "el-mundo",
+          "name": "El Mundo"
+        },
+        "author": null,
+        "title": "Trump da un mitin junto a Elon Musk en la localidad en la que casi fue asesinado en julio",
+        "description": "Este sÃ¡bado, 12 semanas despuÃ©s, a la misma hora y en el mismo lugar, tal y como prometiÃ³, Donald Trump regresÃ³ a la localidad de Butler, en Pensilvania, para terminar el acto...",
+        "url": "https://www.elmundo.es/internacional/2024/10/06/6701cadf21efa0396e8b456e.html",
+        "urlToImage": "https://phantom-elmundo.unidadeditorial.es/1267bfdd6fdfd08af039a6b92ddaa5ae/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/06/17281710361046.jpg",
+        "publishedAt": "2024-10-05T23:34:39Z",
+        "content": "Este sÃ¡bado, 12 semanas despuÃ©s, a la misma hora y en el mismo lugar, tal y como prometiÃ³, Donald Trump regresÃ³ a la localidad de Butler, en Pensilvania, para terminar el acto de campaÃ±a que un … [+7353 chars]"
+      }
+    ]
+  }
